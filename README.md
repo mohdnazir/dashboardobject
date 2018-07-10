@@ -1,5 +1,6 @@
 # Dashboard object alignment using JQuery
 HTML Jquery to align objects on dashboard
+![alt text](https://github.com/mohdnazir/dashboardobject/blob/master/dasboardobjectalignment.PNG)
 ```html
 <!doctype html>
 <html lang="en">
