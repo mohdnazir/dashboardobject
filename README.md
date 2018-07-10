@@ -1,4 +1,4 @@
-# dashboardobject
+# Dashboard object alignment using JQuery
 HTML Jquery to align objects on dashboard
 ```html
 <!doctype html>
